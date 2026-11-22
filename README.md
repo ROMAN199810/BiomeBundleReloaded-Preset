@@ -22,7 +22,7 @@ I continue to actively develop, optimize, and expand this project every single d
 ---
 
 ### 🚀 Installation Guide
-1. **Download the Main Plugin (Required):** You must get the main **`OTGZeusAdventureRL.jar`** plugin from our official **[Modrinth Project Page](https://modrinth.com)**. Place the JAR file into your server's `plugins/` folder, start the server once to generate the configuration folders, and stop it.
+1. **Download the Main Plugin (Required):** You must get the main **`OTGZeusAdventureRL.jar`** plugin from our official **[Modrinth Project Page]([https://modrinth.com](https://modrinth.com/plugin/otgzeusadventurerl))**. Place the JAR file into your server's `plugins/` folder, start the server once to generate the configuration folders, and stop it.
 2. **Download the BBR Preset:** Go to the **[Releases](../../releases)** tab on the right side of this GitHub page and download `BiomeBundleReloaded.zip`.
 3. **Extract the Preset:** Move `BiomeBundleReloaded.zip` into `plugins/OTGZeusAdventureRL/Presets/` and extract it there (you can safely delete the `.zip` file afterward).
 4. **Configure `bukkit.yml`:** Open `bukkit.yml` in your server's root folder and add the following lines at the bottom:
